@@ -143,6 +143,3 @@ A → B → C → D → E
 ```
 
 This makes it a useful exercise for understanding how loop boundaries can control both the starting and ending characters.
----
-
-### 🐍 Build Patterns. Understand Loops. Strengthen Logic.
